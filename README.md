@@ -1,1 +1,1 @@
-# WebNews
+# NewsWeb
